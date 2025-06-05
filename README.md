@@ -47,12 +47,12 @@
 <div align="center">
   <!-- Nova AI 2.5 Ultra -->
   <a href="#" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinethnethsara&repo=nova-ai&theme=radical&bg_color=0D1117&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hexlorddev&repo=nova-ai&theme=radical&bg_color=0D1117&hide_border=true">
   </a>
   
   <!-- PlayPulse Hosting -->
   <a href="#" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinethnethsara&repo=playpulse&theme=radical&bg_color=0D1117&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hexlorddev&repo=playpulse&theme=radical&bg_color=0D1117&hide_border=true">
   </a>
 </div>
 
