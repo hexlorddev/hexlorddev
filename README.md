@@ -169,25 +169,25 @@ Others        ██░░░░░░░░░░░░░░░░░░  5% �
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/👥%20FOLLOWERS-2.5K+-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=000">
+<img src="https://img.shields.io/badge/👥%20FOLLOWERS- 0K+-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=000">
 <br><sub>📈 <b>+40% Growth</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/⭐%20STARS-15K+-ffd700?style=for-the-badge&logo=star&logoColor=black&labelColor=000">
+<img src="https://img.shields.io/badge/⭐%20STARS-0K+-ffd700?style=for-the-badge&logo=star&logoColor=black&labelColor=000">
 <br><sub>📈 <b>+65% Growth</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🍴%20FORKS-3.2K+-ff6b6b?style=for-the-badge&logo=git-fork&logoColor=white&labelColor=000">
-<br><sub>📈 <b>+50% Growth</b></sub>
+<img src="https://img.shields.io/badge/🍴%20FORKS-0K+-ff6b6b?style=for-the-badge&logo=git-fork&logoColor=white&labelColor=000">
+<br><sub>📈 <b>+50% Growth</b></sub>2
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/👀%20VIEWS-50K+-8A2BE2?style=for-the-badge&logo=eye&logoColor=white&labelColor=000">
+<img src="https://img.shields.io/badge/👀%20VIEWS-0K+-8A2BE2?style=for-the-badge&logo=eye&logoColor=white&labelColor=000">
 <br><sub>📈 <b>+80% Growth</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/💬%20CONTRIBUTIONS-2.5K+-ff4500?style=for-the-badge&logo=git&logoColor=white&labelColor=000">
+<img src="https://img.shields.io/badge/💬%20CONTRIBUTIONS-0K+-ff4500?style=for-the-badge&logo=git&logoColor=white&labelColor=000">
 <br><sub>📈 <b>+120% Growth</b></sub>
 </td>
 <td align="center">
