@@ -80,7 +80,7 @@
 <img width="120" src="https://img.shields.io/badge/🥇-CHAMPION-FFD700?style=for-the-badge&logo=trophy&logoColor=black&labelColor=000">
 <br><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80">
 <br><b>🎖️ Best Young Developer</b>
-<br><sub>🇱🇰 Sri Lanka Tech Excellence Awards 2024</sub>
+<br><sub>🇱🇰 Sri Lanka Tech Excellence Awards 2025</sub>
 <br><sup><i>"Outstanding innovation and technical mastery"</i></sup>
 </td>
 <td align="center" width="220px">
